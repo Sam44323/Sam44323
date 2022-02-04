@@ -2,6 +2,7 @@
 <h1 align="center">Sup!👋</h1>
   <img src="assets/hello.jpeg" alt="hello" width="100%"/>
 </p>
+<h6>Image courtesy: pinterest</h6>
 <br />
 
 <h4 align="center">I am Suranjan a.k.a your typical basement sitting and coffee sipping developer 😅. Nice to meet ya 🤘</h4>
