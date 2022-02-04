@@ -1,16 +1,22 @@
-### Sup!👋
+<p align="center"> 
+<h1 align="center">Sup!👋</h1>
+  <img src="assets/hello.jpeg" alt="stacks"/>
+</p>
+<br />
 
-![alt text](assets/hello.jpeg)
+<h4 align="center">I am Suranjan a.k.a your typical basement sitting and coffee sipping developer 😅. Nice to meet ya 🤘</h4>
 
----
+<br/>
+<br/>
+<br/>
 
-**I am Suranjan a.k.a your typical basement sitting and coffee sipping developer 😅. Nice to meet ya 🤘**
-
-### Tech-Stack 😎
+<h1 align="center">Tech-Stack 😎</h1>
 
 <br />
 
-**This is where the fun starts eh!**
+<h4 align="center">This is where the fun starts eh!</h4>
+
+<br/>
 
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=61dbfb)
 ![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c&logoColor=61dbfb)
