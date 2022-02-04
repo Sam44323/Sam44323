@@ -17,6 +17,8 @@
 
 <h4 align="center">This is where the fun starts eh!</h4>
 
+<div align="center">
+
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=61dbfb)
 ![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c&logoColor=61dbfb)
 ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=for-the-badge&logo=solidity&logoColor=61dbfb)
@@ -51,4 +53,14 @@
 ![npm](https://img.shields.io/badge/-NPM-333333?style=for-the-badge&logo=npm&logoColor=61dbfb)
 ![yarn](https://img.shields.io/badge/-Yarn-333333?style=for-the-badge&logo=yarn&logoColor=61dbfb)
 
+</div>
+
 <br />
+
+<h1 align="center">Currently Vibing To 🎧</h1>
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j2ta1po29az6bevpi6t12vpzw&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
