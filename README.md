@@ -20,6 +20,9 @@
 <div align="center" width="100%">
 
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=61dbfb)
+![Next-JS](https://img.shields.io/badge/-NextJS-333333?style=for-the-badge&logo=next.js&logoColor=61dbfb)
+![Svelte](https://img.shields.io/badge/-Svelte-333333?style=for-the-badge&logo=svelte&logoColor=61dbfb)
+![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=for-the-badge&logo=gatsby&logoColor=61dbfb)
 ![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c&logoColor=61dbfb)
 ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=for-the-badge&logo=solidity&logoColor=61dbfb)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=for-the-badge&logo=rust&logoColor=61dbfb)
@@ -35,9 +38,6 @@
 ![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=javascript&logoColor=61dbfb)
 ![Deno](https://img.shields.io/badge/-Deno-333333?style=for-the-badge&logo=deno&logoColor=61dbfb)
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=61dbfb)
-![Next-JS](https://img.shields.io/badge/-NextJS-333333?style=for-the-badge&logo=next.js&logoColor=61dbfb)
-![Svelte](https://img.shields.io/badge/-Svelte-333333?style=for-the-badge&logo=svelte&logoColor=61dbfb)
-![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=for-the-badge&logo=gatsby&logoColor=61dbfb)
 ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java&logoColor=61dbfb)
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow-333333?style=for-the-badge&logo=tensorflow&logoColor=61dbfb)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit-333333?style=for-the-badge&logo=scikit-learn&logoColor=61dbfb)
