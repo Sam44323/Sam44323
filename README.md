@@ -17,7 +17,7 @@
 
 <h4 align="center">This is where the fun starts eh!</h4>
 
-<div align="center">
+<div align="center" width="100%">
 
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=61dbfb)
 ![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c&logoColor=61dbfb)
@@ -59,7 +59,7 @@
 
 <h1 align="center">Currently Vibing To 🎧</h1>
 
-<div align="center">
+<div align="center" width="100%">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j2ta1po29az6bevpi6t12vpzw&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
