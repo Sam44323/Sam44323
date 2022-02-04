@@ -8,7 +8,7 @@
 
 ### Tech-Stack 😎
 
----
+<br />
 
 **This is where the fun starts eh!**
 
@@ -45,3 +45,5 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=61dbfb)
 ![npm](https://img.shields.io/badge/-NPM-333333?style=for-the-badge&logo=npm&logoColor=61dbfb)
 ![yarn](https://img.shields.io/badge/-Yarn-333333?style=for-the-badge&logo=yarn&logoColor=61dbfb)
+
+<br />
