@@ -7,6 +7,8 @@
 
 <h4 align="center">I am Suranjan a.k.a your typical basement sitting and coffee sipping developer 😅. Nice to meet ya 🤘</h4>
 
+![Sam44323 stats github](https://github-readme-stats.vercel.app/api?username=Sam44323&show_icons=true&theme=radical)
+
 <h1 align="center">Tech-Stack 😎</h1>
 
 <h4 align="center">This is where the fun starts eh!</h4>
