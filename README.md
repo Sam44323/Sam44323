@@ -4,9 +4,7 @@
 
 ---
 
-**I am Suranjan a.k.a your typical basement sitting and coffee sipping developer(I'm like this for-real BTW). Nice to meet ya 🤘**
-
----
+**I am Suranjan a.k.a your typical basement sitting and coffee sipping developer 😅. Nice to meet ya 🤘**
 
 ### Tech-Stack 😎
 
