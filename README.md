@@ -1,16 +1,49 @@
-### Hi there 👋
+### Sup!👋
 
-<!--
-**Sam44323/Sam44323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![alt text](assets/hello.jpeg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I am Suranjan a.k.a your typical basement sitting and coffee sipping developer(I'm like this for-real BTW). Nice to meet ya 🤘**
+
+---
+
+### Tech-Stack 😎
+
+---
+
+**This is where the fun starts eh!**
+
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=61dbfb)
+![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c&logoColor=61dbfb)
+![Solidity](https://img.shields.io/badge/-Solidity-333333?style=for-the-badge&logo=solidity&logoColor=61dbfb)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=for-the-badge&logo=rust&logoColor=61dbfb)
+![SASS](https://img.shields.io/badge/-SASS-333333?style=for-the-badge&logo=sass&logoColor=61dbfb)
+![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=express&logoColor=61dbfb)
+![Nodejs](https://img.shields.io/badge/-Node.JS-333333?style=for-the-badge&logo=node.js&logoColor=61dbfb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=61dbfb)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=for-the-badge&logo=flutter&logoColor=61dbfb)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=for-the-badge&logo=dart&logoColor=61dbfb)
+![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript&logoColor=61dbfb)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=for-the-badge&logo=angular&logoColor=61dbfb)
+![C++](https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c&logoColor=61dbfb)
+![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=javascript&logoColor=61dbfb)
+![Deno](https://img.shields.io/badge/-Deno-333333?style=for-the-badge&logo=deno&logoColor=61dbfb)
+![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=61dbfb)
+![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java&logoColor=61dbfb)
+![TensorFlow](https://img.shields.io/badge/-Tensorflow-333333?style=for-the-badge&logo=tensorflow&logoColor=61dbfb)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit-333333?style=for-the-badge&logo=scikit-learn&logoColor=61dbfb)
+![Numpy](https://img.shields.io/badge/-Numpy-333333?style=for-the-badge&logo=numpy&logoColor=61dbfb)
+![HTML5](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5&logoColor=61dbfb)
+![CSS3](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3&logoColor=61dbfb)
+![PostgreSQL](https://img.shields.io/badge/-Postgreql-333333?style=for-the-badge&logo=postgresql&logoColor=61dbfb)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&logoColor=61dbfb)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis&logoColor=61dbfb)
+![GCP](https://img.shields.io/badge/-GCP-333333?style=for-the-badge&logo=googlecloud&logoColor=61dbfb)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon&logoColor=61dbfb)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=for-the-badge&logo=firebase&logoColor=61dbfb)
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=for-the-badge&logo=supabase&logoColor=61dbfb)
+![HazelCat IMDG](https://img.shields.io/badge/-HazelCat_IMDG-333333?style=for-the-badge&logo=hazelcat&logoColor=61dbfb)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=61dbfb)
+![npm](https://img.shields.io/badge/-NPM-333333?style=for-the-badge&logo=npm&logoColor=61dbfb)
+![yarn](https://img.shields.io/badge/-Yarn-333333?style=for-the-badge&logo=yarn&logoColor=61dbfb)
