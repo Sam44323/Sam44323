@@ -44,7 +44,7 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=for-the-badge&logo=numpy&logoColor=61dbfb)
 ![HTML5](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5&logoColor=61dbfb)
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3&logoColor=61dbfb)
-![PostgreSQL](https://img.shields.io/badge/-Postgreql-333333?style=for-the-badge&logo=postgresql&logoColor=61dbfb)
+![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=for-the-badge&logo=postgresql&logoColor=61dbfb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&logoColor=61dbfb)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis&logoColor=61dbfb)
 ![GCP](https://img.shields.io/badge/-GCP-333333?style=for-the-badge&logo=googlecloud&logoColor=61dbfb)
