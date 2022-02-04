@@ -8,8 +8,6 @@
 <h4 align="center">I am Suranjan a.k.a your typical basement sitting and coffee sipping developer 😅. Nice to meet ya 🤘</h4>
 
 <br/>
-<br/>
-<br/>
 
 <h1 align="center">Tech-Stack 😎</h1>
 
