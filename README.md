@@ -59,7 +59,7 @@
 
 <h1 align="center">Currently Vibing To 🎧</h1>
 
-<div align="center" width="100%">
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j2ta1po29az6bevpi6t12vpzw&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
