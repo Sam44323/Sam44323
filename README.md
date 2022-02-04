@@ -7,7 +7,7 @@
 
 <h4 align="center">I am Suranjan a.k.a your typical basement sitting and coffee sipping developer 😅. Nice to meet ya 🤘</h4>
 
-<div align="center">
+<div align="center" width="100%">
 
 ![Sam44323 stats github](https://github-readme-stats.vercel.app/api?username=Sam44323&show_icons=true&theme=radical)
 
