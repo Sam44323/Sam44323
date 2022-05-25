@@ -61,6 +61,10 @@
 
 <br />
 
+<a href="https://app.daily.dev/Sam44323"><img src="https://api.daily.dev/devcards/98078e4a1d7645a48388d31e408eec06.png?r=xe9" width="400" alt="Suranjan Biswas's Dev Card"/></a>
+
+<br/>
+
 <h1 align="center">Currently Vibing To 🎧</h1>
 
 <div align="center">
