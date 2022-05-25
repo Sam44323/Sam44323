@@ -62,7 +62,12 @@
 <br />
 <div align="center" width="100%" display="flex">
   <a href="https://app.daily.dev/Sam44323"><img src="https://api.daily.dev/devcards/98078e4a1d7645a48388d31e408eec06.png?r=xe9" width="400" alt="Suranjan Biswas's Dev Card"/></a>
-  <div>
+</div>
+
+<div>
+  
+<br/>
+  
 <h1 align="center">Currently Vibing To 🎧</h1>
 
 <div align="center">
@@ -70,7 +75,3 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j2ta1po29az6bevpi6t12vpzw&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-</div>
-</div>
-
-<br/>
