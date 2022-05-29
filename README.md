@@ -20,9 +20,11 @@
 <div align="center" width="100%">
 
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=61dbfb)
-![Next-JS](https://img.shields.io/badge/-NextJS-333333?style=for-the-badge&logo=next.js&logoColor=61dbfb)
 ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=for-the-badge&logo=svelte&logoColor=61dbfb)
+![Next-JS](https://img.shields.io/badge/-NextJS-333333?style=for-the-badge&logo=next.js&logoColor=61dbfb)
+![React](https://img.shields.io/badge/-ReactNative-333333?style=for-the-badge&logo=react&logoColor=61dbfb)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=for-the-badge&logo=gatsby&logoColor=61dbfb)
+![Go](https://img.shields.io/badge/-Go-333333?style=for-the-badge&logo=go&logoColor=61dbfb)
 ![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c&logoColor=61dbfb)
 ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=for-the-badge&logo=solidity&logoColor=61dbfb)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=for-the-badge&logo=rust&logoColor=61dbfb)
