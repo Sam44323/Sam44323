@@ -45,6 +45,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit-333333?style=for-the-badge&logo=scikit-learn&logoColor=61dbfb)
 ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=for-the-badge&logo=numpy&logoColor=61dbfb)
 ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=for-the-badge&logo=graphql&logoColor=61dbfb)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=for-the-badge&logo=rust&logoColor=61dbfb)
 ![HTML5](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5&logoColor=61dbfb)
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3&logoColor=61dbfb)
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=for-the-badge&logo=postgresql&logoColor=61dbfb)
