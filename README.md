@@ -1,6 +1,6 @@
 <p align="center"> 
 <h1 align="center">Sup!👋</h1>
-  <img src="assets/hello.jpeg" alt="hello" width="100%"/>
+  <img src="assets/hello.jpg" alt="hello" width="100%"/>
 </p>
 <h6>Image courtesy: pinterest</h6>
 <br />
