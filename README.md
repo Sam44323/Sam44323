@@ -1,6 +1,6 @@
 <p align="center"> 
 <h1 align="center">Sup!👋</h1>
-  <img src="https://images.unsplash.com/photo-1542880435-afda6a0019dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGVsbG98ZW58MHx8MHx8&w=1000&q=80" alt="hello" width="100%"/>
+  <img src="https://images.unsplash.com/photo-1542880435-afda6a0019dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGVsbG98ZW58MHx8MHx8&w=1000&q=80" alt="hello" width="100%" height="499"/>
 </p>
 <h6>Image courtesy: unsplash</h6>
 <br />
